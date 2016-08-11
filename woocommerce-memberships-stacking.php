@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Memberships Stacking
- * Plugin URI:  https://github.com/mudtar/wc-memberships-stacking 
+ * Plugin URI:  https://github.com/mudtar/woocommerce-memberships-stacking
  * Description: Concatenate user membership length when multiple of the same membership plan access item are purchased in a single order.
  * Author:      Ian Burton
  * Author URI:  https://github.com/mudtar
